@@ -1,4 +1,4 @@
-# Insurance Agent Cockpit
+# Marketing Agent Cockpit
 
 > A production-shaped **AgentOps** platform — six configurable agents reasoning over a fictional insurer's marketing data, scored by a structured evaluator, and improved through a versioned, rollback-able prompt-patch loop.
 
